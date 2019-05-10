@@ -3,6 +3,7 @@
 Easy to use, e.g.,
 
 int main(int argc, char** argv)
+
 {
 
     LOG_ERROR("Hello world!, %s", "Logger");
